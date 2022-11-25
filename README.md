@@ -1,0 +1,2 @@
+# Termux
+for school purpose
